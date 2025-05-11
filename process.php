@@ -29,6 +29,6 @@ $options = [
 $context = stream_context_create($options);
 $result = file_get_contents($url, false, $context);
 
-header("Location: tree.html");
+header("Location: konf.html");
 exit;
 ?>
